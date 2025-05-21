@@ -59,13 +59,14 @@
                             </h2>
                             <div class="text-[#1B4146] text-sm  font-Montserrat_Regular mt-4">
                               
-                            <p>Medicina Humana</p>
-
-                            <p class="text-[#1B4146] font-Montserrat_SemiBold  ">USMP, 2009.</p>
-                            <p>Especialidad</p>
-                              <p class="text-[#1B4146] font-Montserrat_SemiBold ">Médico Psiquiatra - Hospital Victor Larco Herrera, 2013-2016.</p>
-                            <p>Sub especialidad</p>
+                                         <p>Sub especialidad</p>
                               <p class="text-[#1B4146] font-Montserrat_SemiBold  ">Médico Psiquiatra de niños y adolescentes - Hospital Edgardo Rebagliati, 2016-2018.</p>
+                                   <p>Especialidad</p>
+                              <p class="text-[#1B4146] font-Montserrat_SemiBold ">Médico Psiquiatra - Hospital Victor Larco Herrera, 2013-2016.</p>
+                            <p>Medicina Humana</p>
+                            <p class="text-[#1B4146] font-Montserrat_SemiBold  ">USMP, 2009.</p>
+                       
+               
                             </div>
                         </div>
                     </div>
