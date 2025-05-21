@@ -3,7 +3,7 @@
     <div class="left-0 right-0">
         {{-- Navbar --}}
         <div class="flex justify-between w-full px-[5%]">
-            <nav class="flex h-[80px] 2xl:h-[100px] items-center justify-between gap-10 w-full">
+            <nav class="flex h-[80px] 2xl:h-[90px] items-center justify-between gap-10 w-full">
                 <div class="flex justify-center items-center z-40 mx-auto">
                     <a href="{{ url('/') }}">
                         <img

@@ -40,7 +40,7 @@
                 <div class="grid grid-cols-2 lg:grid-cols-5 gap-5 lg:gap-0">
                     <div class="col-span-2 flex flex-col justify-between pb-0 lg:pb-10">
                         <div class="flex flex-col p-2 justify-center items-start gap-8">
-                            <h2 class="text-[#09262A] font-merchant_medium text-5xl xl:text-6xl 2xl:text-7xl leading-[45px] xl:leading-[55px] tracking-tighter" data-aos="fade-down">Acompañamos el bienestar emocional y conductual de tu hijo</h2>
+                            <h2 class="text-[#09262A] font-merchant_medium text-5xl xl:text-6xl 2xl:text-6xl leading-[45px] xl:leading-[55px] tracking-tighter" data-aos="fade-down">Acompañamos el bienestar emocional de tu hijo</h2>
                             
                             <h2 class="text-[#1B4146] text-base xl:text-lg 2xl:text-xl font-Montserrat_Regular" data-aos="fade-down">
                                 Sabemos lo importante que es el bienestar emocional de los niños y adolescentes. Estamos aquí para escucharte y brindarte el apoyo que necesitas con empatía y profesionalismo.
@@ -54,22 +54,29 @@
                             </div>
                         </div>
                         <div class="flex flex-col p-2 justify-center items-start" data-aos="fade-down">
-                            <h2 class="text-[#1B4146] text-base xl:text-lg 2xl:text-xl font-Montserrat_Regular">
-                                Haz tu consulta
+                            <h2 class="text-[#1B4146] text-base xl:text-lg 2xl:text-2xl font-Montserrat_Bold ">
+                               Dra. Adriana Pezo Geremía
                             </h2>
-                            <p class="text-[#1B4146] text-base xl:text-lg 2xl:text-xl font-Montserrat_Bold">
-                                (+51) 945 064 691
-                            </p>
+                            <div class="text-[#1B4146] text-sm  font-Montserrat_Regular mt-4">
+                              
+                            <p>Medicina Humana</p>
+
+                            <p class="text-[#1B4146] font-Montserrat_SemiBold  ">USMP, 2009.</p>
+                            <p>Especialidad</p>
+                              <p class="text-[#1B4146] font-Montserrat_SemiBold ">Médico Psiquiatra - Hospital Victor Larco Herrera, 2013-2016.</p>
+                            <p>Sub especialidad</p>
+                              <p class="text-[#1B4146] font-Montserrat_SemiBold  ">Médico Psiquiatra de niños y adolescentes - Hospital Edgardo Rebagliati, 2016-2018.</p>
+                            </div>
                         </div>
                     </div>
     
                     <div class="col-span-2 flex flex-col justify-end items-center relative order-2 lg:order-1 ">
-                        <div class="relative w-[700px]" data-aos="fade-down">
-                            <img class="h-80 md:h-[300px] w-auto object-contain object-left absolute right-20 4xs:left-0 bottom-0" src="{{asset('images/img/texturaAP.png')}}"
-                                onerror="this.onerror=null;this.src='{{ asset('images/img/noimagen.jpg') }}';" />
-                            <img class="h-96 md:h-[650px] w-full object-contain  object-center relative z-10" src="{{asset('images/img/Dra.png')}}"
-                                onerror="this.onerror=null;this.src='{{ asset('images/img/noimagen.jpg') }}';" />
-                        </div>
+                        <div class="relative w-[700px] h-[800px] overflow-hidden" data-aos="fade-down">
+    <img class="h-80 md:h-[500px] w-auto object-contain object-left absolute right-20 4xs:left-0 bottom-0" src="{{asset('images/img/texturaAP.png')}}"
+        onerror="this.onerror=null;this.src='{{ asset('images/img/noimagen.jpg') }}';" />
+    <img class="h-[600px] xl:h-[900px] w-full object-contain xl:right-28 xl:-top-16  relative z-10" src="{{asset('images/img/Dra.png')}}"
+        onerror="this.onerror=null;this.src='{{ asset('images/img/noimagen.jpg') }}';" />
+</div>
                     </div>
     
                     <div class="col-span-2 lg:col-span-1 flex flex-col sm:flex-row gap-5 sm:gap-10 lg:flex-col justify-around items-start lg:items-end order-1 lg:order-2">
@@ -108,8 +115,19 @@
                                   </button>
                                 </form>
                                 
-                            </div>
+                            </div> 
+
+                              <div class="flex flex-col p-2 justify-center items-end mt-8" data-aos="fade-down">
+                            <h2 class="text-[#1B4146] text-base xl:text-lg font-bold 2xl:text-xl font-Montserrat_Regular">
+                                Haz tu consulta
+                            </h2>
+                            <p class="text-[#1B4146] text-base xl:text-lg 2xl:text-3xl font-Montserrat_Bold">
+                                (+51) 945 064 691
+                            </p>
                         </div>
+                        </div>
+
+                        
 
                     </div>
                 </div>
